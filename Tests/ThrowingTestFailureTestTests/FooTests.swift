@@ -25,3 +25,6 @@ final class FooTests: XCTestCase {
         XCTAssertEqual(foo.string, "hello")
     }
 }
+
+
+
